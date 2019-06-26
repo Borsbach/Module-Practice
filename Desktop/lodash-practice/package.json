@@ -1,0 +1,16 @@
+{
+  "name": "lodash-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --no-timeouts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^2.0.0",
+    "lodash": "^4.17.11",
+    "mocha": "^6.1.4"
+  }
+}
